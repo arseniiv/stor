@@ -1,0 +1,1 @@
+**Beware Github sanitizes Markdown before converting it to HTML so some formatting in the texts is lost when viewing from this repo’s Github page and not through other means.** Details lost nclude `abbr title` which is used to append hints and snarky inline comments, and small styling to make verses inside prose look more at home.
